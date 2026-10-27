@@ -32,7 +32,9 @@
 
 ### **Citas:**
 > La idea es soñar, pero no quedarse soñando despierto.
+
 > El barco está en la orilla, pero no nació para estar allí.
+
 > Al que está quieto, se deja quieto. 😬
 
 ## 🕸️ Redes: 
