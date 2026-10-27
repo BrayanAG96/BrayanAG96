@@ -14,11 +14,11 @@
 - Igualmente interesado en aprender a desarrollar aplicaciones de escritorio y móviles con el fin de crear diversos proyectos que tengo en mente. Aprender lenguajes de programación como Python, C++, entro otros sentarán igualmente la base para desarrollar y llevar a cabo esos diversos proyectos e ideas que tengo en mente. 🤫
 
 ## 🎓 Largo plazo:
-### **Ingeniería en Sistemas y desarrollo en curso de mis primeros proyectos. ** _(2.5 años - 5 años)_
+### **Ingeniería en Sistemas y desarrollo en curso de mis primeros proyectos. ** _(2.5 años - 5 años)_ ###
 - Llevar a cabo mis proyectos los cuales ya habrán iniciado producto de mis conocimientos adquiridos en los estudiado durante estos últimos 5 años y desde que finalizo mí tecnólogo en desarrollo de software. Liderar mis propios proyectos de desarrollo Web e incluso aplicativos (escritorio/móviles). Vivir de manera estable gracias a la programación y formar mí familia.
 
 ### **Metas (versión extended):**
-| ##Corto         | ##Mediano   | ##Largo        | 
+| ##Corto##       | ##Mediano## | ##Largo##      | 
 |-----------------|-------------|----------------|
 | HTML            | ADSO        | Ingeniería     |
 | Mejor empleo    | Inglés      | Familia        |
